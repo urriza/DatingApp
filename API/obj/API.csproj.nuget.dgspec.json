@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\i.urriza\\Desktop\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\i.urriza\\Desktop\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\i.urriza\\Desktop\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\i.urriza\\Desktop\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\i.urriza\\Desktop\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\i.urriza\\Desktop\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\i.urriza\\Desktop\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\i.urriza\\Desktop\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\i.urriza\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\i.urriza\\Desktop\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\i.urriza\\Desktop\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -26,6 +26,7 @@
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,9 +45,19 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[6.0.0-preview.3.21201.2, )"
+              "version": "[5.0.6, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -71,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
