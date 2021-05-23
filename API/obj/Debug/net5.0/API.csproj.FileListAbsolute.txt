@@ -112,3 +112,17 @@ C:\Users\iosur\Desktop\DatingApp\DatingApp\API\obj\Debug\net5.0\API.dll
 C:\Users\iosur\Desktop\DatingApp\DatingApp\API\obj\Debug\net5.0\ref\API.dll
 C:\Users\iosur\Desktop\DatingApp\DatingApp\API\obj\Debug\net5.0\API.pdb
 C:\Users\iosur\Desktop\DatingApp\DatingApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\i.urriza\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\i.urriza\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\i.urriza\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\i.urriza\Desktop\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\i.urriza\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\i.urriza\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\i.urriza\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iosur\Desktop\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\iosur\Desktop\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iosur\Desktop\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\iosur\Desktop\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iosur\Desktop\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iosur\Desktop\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iosur\Desktop\DatingApp\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
