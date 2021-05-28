@@ -1550,23 +1550,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\iosur\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\i.urriza\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iosur\\Desktop\\DatingApp\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\i.urriza\\Desktop\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\iosur\\Desktop\\DatingApp\\DatingApp\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\iosur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iosur\\Desktop\\DatingApp\\DatingApp\\API\\obj\\",
+      "projectPath": "C:\\Users\\i.urriza\\Desktop\\DatingApp\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\i.urriza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\i.urriza\\Desktop\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\iosur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\i.urriza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
