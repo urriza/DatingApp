@@ -11,7 +11,6 @@ C:\Users\i.urriza\Desktop\DatingApp\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\i.urriza\Desktop\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\i.urriza\Desktop\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\i.urriza\Desktop\DatingApp\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\i.urriza\Desktop\DatingApp\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
 C:\Users\i.urriza\Desktop\DatingApp\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\i.urriza\Desktop\DatingApp\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
 C:\Users\i.urriza\Desktop\DatingApp\API\obj\Debug\net5.0\API.AssemblyInfo.cs
@@ -126,3 +125,4 @@ C:\Users\iosur\Desktop\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.Identi
 C:\Users\iosur\Desktop\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\iosur\Desktop\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\iosur\Desktop\DatingApp\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\i.urriza\Desktop\DatingApp\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
