@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ko7frJ9Dv4RwKel5pA0MVRu/50aES1GvbFoWxPp16d5ogJYqeGTdmGvP0irW13FgeDp9yV2HaFzRLRvBBAouYw==",
+  "dgSpecHash": "u0ril3IXBn69FoliT1xOcn+nyVLpx9VtgFhw+qxwM2Vuxdz8aqDinIfq4Boij1qqcgg3XNwIV8n70C3pTvNuEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\i.urriza\\Desktop\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "c:\\Users\\i.urriza\\Desktop\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\i.urriza\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\i.urriza\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\i.urriza\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\i.urriza\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.6\\microsoft.aspnetcore.authentication.jwtbearer.5.0.6.nupkg.sha512",
     "C:\\Users\\i.urriza\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -46,6 +48,7 @@
     "C:\\Users\\i.urriza\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "C:\\Users\\i.urriza\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.11.0\\system.identitymodel.tokens.jwt.6.11.0.nupkg.sha512",
     "C:\\Users\\i.urriza\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\i.urriza\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
