@@ -127,3 +127,5 @@ C:\Users\iosur\Desktop\DatingApp\DatingApp\API\bin\Debug\net5.0\Microsoft.Identi
 C:\Users\iosur\Desktop\DatingApp\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\i.urriza\Desktop\DatingApp\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
 C:\Users\i.urriza\Desktop\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
+C:\Users\i.urriza\Desktop\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\i.urriza\Desktop\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
