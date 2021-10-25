@@ -13,6 +13,12 @@ namespace API.Data.Migrations
                 type: "TEXT",
                 nullable: true);
 
+            migrationBuilder.AddColumn<string>(
+                name: "Country",
+                table: "Users",
+                type: "TEXT",
+                nullable: true);
+
             migrationBuilder.AddColumn<DateTime>(
                 name: "Created",
                 table: "Users",
